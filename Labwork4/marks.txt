@@ -1,0 +1,11 @@
+Student ID  | Name                                     | GPA  
+40          | khanh                                    | 14.00
+50          | minh                                     | 14.00
+20          | quynh anh                                | 13.33
+90          | an                                       | 13.33
+30          | son                                      | 13.33
+60          | phuong                                   | 13.33
+70          | duong                                    | 12.67
+80          | huy                                      | 12.00
+10          | long                                     | 4.67 
+100         | nguyen                                   | 2.67 

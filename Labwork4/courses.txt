@@ -1,0 +1,11 @@
+ID         | Course Name               | Credits
+MAT1.001   | Calculus 1                | 4.0  
+MAT1.002   | Linear Algebra            | 4.0  
+FR2.001    | French                    | 8.0  
+MAT1.003   | Calculus 2                | 3.0  
+ICT1.001   | Intro to Info             | 4.0  
+ICT1.002   | Basic Program             | 4.0  
+MAT2.002   | ProbStats                 | 4.0  
+ICT2.013   | Python                    | 4.0  
+ICT2.014   | DSA                       | 4.0  
+ICT2.015   | SigSys                    | 4.0  
